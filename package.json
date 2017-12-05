@@ -1,0 +1,23 @@
+{
+  "name": "membership",
+  "version": "0.0.1",
+  "description": "A membership module for followfrog",
+  "main": "",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "dougglez",
+  "license": "ISC",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "should": "^13.1.3"
+  }
+}
